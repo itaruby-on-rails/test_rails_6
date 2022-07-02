@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-complete ruby on railss
+complete ruby on rails 6
